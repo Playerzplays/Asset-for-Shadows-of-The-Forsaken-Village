@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae85bee85e6015a4ba92299368a38d47, type: 3}
+  m_Name: PlayerItem
+  m_EditorClassIdentifier: 
+  ItemDatabase:
+  - Title: Pistol
+    ID: 0
+    Description: 
+    itemType: 3
+    useActionType: 0
+    itemSprite: {fileID: 21300000, guid: 2866caa499a3f5848a86e02ce5455b91, type: 3}
+    DropObject:
+      GUID: 33b6fd48297dee3409c95b1dc0026c6c
+      Object: {fileID: 1223104983946140, guid: 33b6fd48297dee3409c95b1dc0026c6c, type: 3}
+    PackDropObject:
+      GUID: b0361dfa72b7f844ebc723879118657e
+      Object: {fileID: 1668290240821854, guid: b0361dfa72b7f844ebc723879118657e, type: 3}
+    itemToggles:
+      isStackable: 0
+      isUsable: 1
+      isCombinable: 0
+      isDroppable: 1
+      isRemovable: 0
+      restoreStamina: 0
+      canExamine: 1
+      canBindShortcut: 1
+      combineAddItem: 0
+      combineKeepItem: 0
+      combineShowItem: 0
+      showItemOnUse: 0
+      bagDescription: 0
+      doActionUse: 0
+      doActionCombine: 0
+    itemSounds:
+      useSound: {fileID: 0}
+      useVolume: 1
+      combineSound: {fileID: 0}
+      combineVolume: 1
+    itemSettings:
+      maxStackAmount: 0
+      useSwitcherID: 3
+      healAmount: 0
+      staminaAmount: 0
+      examineRotation: {x: 0, y: 0, z: 0}
+    useActionSettings:
+      triggerValue: 0
+      triggerItemID: 0
+      triggerCustomValue: 
+      actionRemove: 0
+      actionAddItem: 0
+      actionRestrictUse: 0
+      actionRestrictCombine: 0
+    combineSettings: []
+    localizationSettings:
+      titleKey: 
+      descriptionKey: 
+  enableLocalization: 1
