@@ -1,0 +1,1176 @@
+{
+  "scene": "Horror map",
+  "levelName": "Horror map",
+  "levelNameKey": null,
+  "dateTime": "2024-12-29 17:36:22",
+  "playerData": {
+    "playerPosition": {
+      "x": 553.7506,
+      "y": 18.5799885,
+      "z": 436.034332,
+      "normalized": {
+        "x": 0.785394,
+        "y": 0.0263523161,
+        "z": 0.618434966,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 705.0609,
+      "sqrMagnitude": 497110.9
+    },
+    "cameraRotation": {
+      "x": -149.799988,
+      "y": -15.999999,
+      "normalized": {
+        "x": -0.994344234,
+        "y": -0.106204994,
+        "magnitude": 1.0,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 150.652039,
+      "sqrMagnitude": 22696.0371
+    },
+    "characterState": 0,
+    "playerHealth": 100.0
+  },
+  "itemSwitcherData": {
+    "switcherActiveItem": -1,
+    "switcherWeaponItem": -1,
+    "switcher_item_flashlight": {
+      "FlashlightItem": {
+        "batteryPercentage": 100.0
+      }
+    },
+    "switcher_item_lantern": {
+      "LanternItem": {
+        "lightPercentage": 100.0,
+        "lightIntensity": 1.0,
+        "flameAlpha": 0.0
+      }
+    },
+    "switcher_item_candle": {
+      "CandleItem": {
+        "candleScale": 0.00113
+      }
+    },
+    "switcher_item_pistol": {
+      "WeaponController": {
+        "bulletsInMag": 7,
+        "uiShown": false
+      }
+    },
+    "switcher_item_shotgun": {
+      "WeaponController": {
+        "bulletsInMag": 7,
+        "uiShown": false
+      }
+    }
+  },
+  "inventoryData": {
+    "inv_slots_count": 10,
+    "slotsData": {
+      "inv_slot_0": "null",
+      "inv_slot_1": "null",
+      "inv_slot_2": "null",
+      "inv_slot_3": "null",
+      "inv_slot_4": "null",
+      "inv_slot_5": "null",
+      "inv_slot_6": "null",
+      "inv_slot_7": "null",
+      "inv_slot_8": "null",
+      "inv_slot_9": "null"
+    }
+  },
+  "objectivesData": {
+    "activeObjectives": {},
+    "touchedObjectives": {}
+  },
+  "saveablesData": {
+    "InteractiveItem_3cc3e0be02264db6827fa2e206c95355": {
+      "inv_id": 0,
+      "inv_amount": 1,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "NumberPadlock_6ff1f10aba74440b8b71d8c8398e55fa": {
+      "isUnlocked": false
+    },
+    "ExamineObjectAnimation_a6c44774c6c54096baae10ec8f5a9106": {
+      "isPlayed": false,
+      "rotation": {
+        "x": 270.0,
+        "y": 90.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.9486833,
+          "y": 0.316227764,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 284.60498,
+        "sqrMagnitude": 81000.0
+      }
+    },
+    "InteractiveItem_c1acc87934a54bef894b67e0cfaaae27": {
+      "inv_id": 33,
+      "inv_amount": 1,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "object_path": "OldChest/OldChest_Body/Room_Key",
+          "object_scene": "Horror map",
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "TriggerHint_10ac42580d3841cbbd6c5bf4b452f883": {
+      "enabled": true,
+      "isShown": false
+    },
+    "TriggerHint_a35760ef88024895922e1b501418bc85": {
+      "enabled": true,
+      "isShown": false
+    },
+    "HFPS_Destroyable_5cae79d082244d169b8860adedfd20fe": {
+      "locked": false
+    },
+    "DynamicObject_338ac94ccaa44119a44c8a5d8581acbd": {
+      "use_type": 1,
+      "door_angle": 0.0,
+      "is_opened": false,
+      "is_locked": true
+    },
+    "TriggerEvent_760e21256e1845afafcf6390876ec707": {
+      "isTriggered": false,
+      "triggerCount": 0
+    },
+    "HFPS_HitReceiver_bae2fa5d85824fcea4f8e0ca72e9fa8e": {
+      "locked": false
+    },
+    "DynamicObject_088fbab8edec4deeab8dd641d19f206e": {
+      "use_type": 1,
+      "door_angle": 0.0,
+      "is_opened": false,
+      "is_locked": true
+    },
+    "InteractiveItem_8c1ff1cc842842fe96f813534c1f7c50": {
+      "position": {
+        "x": 454.71,
+        "y": 27.1622486,
+        "z": 146.363022,
+        "normalized": {
+          "x": 0.9503675,
+          "y": 0.05677051,
+          "z": 0.305906326,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 478.457,
+        "sqrMagnitude": 228921.1
+      },
+      "rotation": {
+        "x": 0.0153987268,
+        "y": 0.001411547,
+        "z": 89.9946442,
+        "normalized": {
+          "x": 0.000171107153,
+          "y": 1.568479E-05,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 89.9946442,
+        "sqrMagnitude": 8099.036
+      },
+      "inv_id": 29,
+      "inv_amount": 1,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "object_path": "Prop_Car_A/IA_Pistol",
+          "object_scene": "Horror map",
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "TriggerHint_e1aa0ffd4c2f442f9e542a56a78c06fa": {
+      "enabled": true,
+      "isShown": false
+    },
+    "ZombieBehaviourAI_1adcfc1b1edd45edbefddcf1a7e0e7a7": {
+      "position": {
+        "x": 615.806458,
+        "y": 16.88291,
+        "z": 381.631958,
+        "normalized": {
+          "x": 0.8497758,
+          "y": 0.0232974,
+          "z": 0.5266291,
+          "normalized": {
+            "x": 0.849775851,
+            "y": 0.0232974011,
+            "z": 0.52662915,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 724.6693,
+        "sqrMagnitude": 525145.563
+      },
+      "rotation_y": 356.02066,
+      "sleep_behaviour": 3,
+      "agony_set": false,
+      "hunger_set": false,
+      "scream": true,
+      "awake": true,
+      "idle": false,
+      "npc_dead": false,
+      "scream_time": 0.0,
+      "agony_time": 48.2436256,
+      "hunger_time": 77.77015,
+      "last_waypoint": {
+        "x": 614.94,
+        "y": 16.54,
+        "z": 394.09,
+        "normalized": {
+          "x": 0.841726959,
+          "y": 0.0226398744,
+          "z": 0.539428532,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 730.569458,
+        "sqrMagnitude": 533731.7
+      }
+    },
+    "Radio_78f0c39e824e4f3b9c38d239cbcf2a41": {
+      "isOn": false,
+      "tunerPos": 0.0072,
+      "lastChannel": 0,
+      "playbackTimes": [
+        0.0,
+        0.0
+      ]
+    },
+    "DraggableObject_3b9fbd77d89246b49951876bc241d035": {
+      "position": {
+        "x": 555.4843,
+        "y": 18.16134,
+        "z": 271.4278,
+        "normalized": {
+          "x": 0.89808774,
+          "y": 0.0293626245,
+          "z": 0.438835025,
+          "normalized": {
+            "x": 0.8980878,
+            "y": 0.0293626264,
+            "z": 0.438835055,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 618.519,
+        "sqrMagnitude": 382565.719
+      },
+      "rotation": {
+        "x": 0.0001450533,
+        "y": 5.090798E-07,
+        "z": 0.00022612467,
+        "normalized": {
+          "x": 0.5399331,
+          "y": 0.001894952,
+          "z": 0.841705739,
+          "normalized": {
+            "x": 0.539933145,
+            "y": 0.00189495215,
+            "z": 0.8417058,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 0.0002686505,
+        "sqrMagnitude": 7.217309E-08
+      },
+      "isPlayed": false,
+      "rigidbody_kinematic": false,
+      "rigidbody_gravity": true,
+      "rigidbody_freeze": false
+    },
+    "BreakableObject_c397a8952bc6455e92295b478a761930": {
+      "breakable_health": 5.0,
+      "is_broken": false
+    },
+    "DraggableObject_ac5a11cc891a4479b4f63a4aa685ded3": {
+      "position": {
+        "x": 557.7194,
+        "y": 17.9704838,
+        "z": 269.704,
+        "normalized": {
+          "x": 0.899882138,
+          "y": 0.0289954357,
+          "z": 0.435168326,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 619.7694,
+        "sqrMagnitude": 384114.156
+      },
+      "rotation": {
+        "x": -8.69763937E-07,
+        "y": 3.1441834,
+        "z": -1.92103244E-06,
+        "normalized": {
+          "x": -2.76626338E-07,
+          "y": 1.0,
+          "z": -6.109798E-07,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.1441834,
+        "sqrMagnitude": 9.885889
+      },
+      "isPlayed": false,
+      "rigidbody_kinematic": false,
+      "rigidbody_gravity": true,
+      "rigidbody_freeze": false
+    },
+    "BreakableObject_18be8ce77a9b43f8a5d90adef3b6b6d2": {
+      "breakable_health": 5.0,
+      "is_broken": false
+    },
+    "HFPS_HitReceiver_746ea8a483cc49219833c28d5d9514cb": {
+      "locked": false
+    },
+    "DynamicObject_71932898281d401db12a5a82cb847686": {
+      "use_type": 1,
+      "door_angle": 0.0,
+      "is_opened": false,
+      "is_locked": true
+    },
+    "InteractiveLight_368878ae53c24697a261fba531e2213b": {
+      "isPoweredOn": true,
+      "defaultPower": true,
+      "lightType": 0
+    },
+    "InteractiveItem_0b4918aff88f48ce9f97c79138e3fcd5": {
+      "position": {
+        "x": 553.263,
+        "y": 19.9174423,
+        "z": 180.209,
+        "normalized": {
+          "x": 0.950276,
+          "y": 0.0342098922,
+          "z": 0.3095242,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 582.212952,
+        "sqrMagnitude": 338971.938
+      },
+      "rotation": {
+        "x": 270.0,
+        "y": 89.9997253,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.9486836,
+          "y": 0.3162269,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 284.6049,
+        "sqrMagnitude": 80999.95
+      },
+      "inv_id": 25,
+      "inv_amount": 50,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "object_path": "FirstHouseProps/IR_9mm_Ammo (2)_1",
+          "object_scene": "Horror map",
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "ZombieBehaviourAI_dd54066e91844af9955b8ceaff308eb4": {
+      "position": {
+        "x": 497.585754,
+        "y": 16.7162418,
+        "z": 407.4959,
+        "normalized": {
+          "x": 0.773406267,
+          "y": 0.0259823464,
+          "z": 0.633378,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 643.3692,
+        "sqrMagnitude": 413923.938
+      },
+      "rotation_y": 308.003082,
+      "sleep_behaviour": 3,
+      "agony_set": false,
+      "hunger_set": false,
+      "scream": true,
+      "awake": true,
+      "idle": false,
+      "npc_dead": false,
+      "scream_time": 0.0,
+      "agony_time": 34.03861,
+      "hunger_time": 77.77015,
+      "last_waypoint": {
+        "x": 493.69,
+        "y": 16.54,
+        "z": 410.54,
+        "normalized": {
+          "x": 0.768631041,
+          "y": 0.0257512964,
+          "z": 0.6391739,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 642.2978,
+        "sqrMagnitude": 412546.5
+      }
+    },
+    "DynamicObject_07af6966d58c499caa096d194587a21d": {
+      "use_type": 2,
+      "door_angle": 90.0,
+      "is_opened": false,
+      "is_locked": true
+    },
+    "DraggableObject_f7faf6228ec84cd9aed492d508de7ac2": {
+      "position": {
+        "x": 453.90097,
+        "y": 18.6779842,
+        "z": 376.357819,
+        "normalized": {
+          "x": 0.7694119,
+          "y": 0.03166123,
+          "z": 0.6379678,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 589.9323,
+        "sqrMagnitude": 348020.156
+      },
+      "rotation": {
+        "x": 353.0201,
+        "y": 39.2203979,
+        "z": 8.4943285,
+        "normalized": {
+          "x": 0.9936009,
+          "y": 0.110388674,
+          "z": 0.02390791,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 355.293671,
+        "sqrMagnitude": 126233.594
+      },
+      "isPlayed": false,
+      "rigidbody_kinematic": false,
+      "rigidbody_gravity": true,
+      "rigidbody_freeze": false
+    },
+    "BreakableObject_a8eecfacb3e549b986ec177deb28d3bb": {
+      "breakable_health": 5.0,
+      "is_broken": false
+    },
+    "HFPS_ActiveHand_e770636bd4434c4397943666862a0c2f": {
+      "curCount": 0,
+      "locked": false
+    },
+    "InteractiveItem_95860217d5f14e1d865198f3d4e379b7": {
+      "position": {
+        "x": 553.263,
+        "y": 19.9174423,
+        "z": 180.371,
+        "normalized": {
+          "x": 0.9501941,
+          "y": 0.0342069454,
+          "z": 0.30977577,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 582.2631,
+        "sqrMagnitude": 339030.344
+      },
+      "rotation": {
+        "x": 270.0,
+        "y": 89.9997253,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.9486836,
+          "y": 0.3162269,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 284.6049,
+        "sqrMagnitude": 80999.95
+      },
+      "inv_id": 25,
+      "inv_amount": 50,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "object_path": "FirstHouseProps/IR_9mm_Ammo (2)",
+          "object_scene": "Horror map",
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "InteractiveItem_4f8311e648b24df6b4a01508966dd586": {
+      "position": {
+        "x": 455.583252,
+        "y": 27.1851578,
+        "z": 146.363,
+        "normalized": {
+          "x": 0.950541139,
+          "y": 0.0567198433,
+          "z": 0.305375725,
+          "normalized": {
+            "x": 0.9505412,
+            "y": 0.056719847,
+            "z": 0.305375755,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 479.2883,
+        "sqrMagnitude": 229717.266
+      },
+      "rotation": {
+        "x": -8.700467E-07,
+        "y": -7.357431E-05,
+        "z": 7.87862E-05,
+        "normalized": {
+          "x": -0.008070808,
+          "y": -0.682496846,
+          "z": 0.7308439,
+          "normalized": {
+            "x": -0.008070809,
+            "y": -0.6824969,
+            "z": 0.730843961,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 0.000107801679,
+        "sqrMagnitude": 1.16212018E-08
+      },
+      "inv_id": 26,
+      "inv_amount": 1,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "object_path": "Prop_Car_A/Flashlight",
+          "object_scene": "Horror map",
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "HFPS_Destroyable_abc14d69112b4b988225111f743d0649": {
+      "locked": false
+    },
+    "HFPS_HitReceiver_4d2d364018c74a8f9e12d66c4b23cf43": {
+      "locked": false
+    },
+    "InteractiveItem_a6c026a2885b4433b49f16b078b780d5": {
+      "position": {
+        "x": 553.1704,
+        "y": 19.9390163,
+        "z": 179.774,
+        "normalized": {
+          "x": 0.950479,
+          "y": 0.0342599973,
+          "z": 0.3088947,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 581.9912,
+        "sqrMagnitude": 338713.75
+      },
+      "rotation": {
+        "x": 3.26347363E-05,
+        "y": -6.86769563E-05,
+        "z": 90.00011,
+        "normalized": {
+          "x": 3.6260775E-07,
+          "y": -7.630764E-07,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.00011,
+        "sqrMagnitude": 8100.019
+      },
+      "inv_id": 29,
+      "inv_amount": 1,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "object_path": "FirstHouseProps/IA_Pistol",
+          "object_scene": "Horror map",
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "InteractiveLight_ec9e132b16fc42859baf7d43d0fb1353": {
+      "isPoweredOn": true,
+      "defaultPower": true,
+      "lightType": 0
+    },
+    "SaveObject_29fdbc61c42d46adbaa2f5ebe2c9bf9d": {
+      "active_state": {
+        "renderer": true,
+        "activeSelf": true
+      }
+    },
+    "ZombieBehaviourAI_49a212d7cb2148ca95c65bdc0dac50c6": {
+      "position": {
+        "x": 487.3304,
+        "y": 16.7162418,
+        "z": 414.2238,
+        "normalized": {
+          "x": 0.7616847,
+          "y": 0.02612705,
+          "z": 0.647420943,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 639.805969,
+        "sqrMagnitude": 409351.719
+      },
+      "rotation_y": 278.1161,
+      "sleep_behaviour": 3,
+      "agony_set": false,
+      "hunger_set": false,
+      "scream": true,
+      "awake": true,
+      "idle": false,
+      "npc_dead": false,
+      "scream_time": 0.0,
+      "agony_time": 28.77731,
+      "hunger_time": 77.77015,
+      "last_waypoint": {
+        "x": 471.44,
+        "y": 16.54,
+        "z": 416.49,
+        "normalized": {
+          "x": 0.7491738,
+          "y": 0.0262840148,
+          "z": 0.661851764,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 629.279846,
+        "sqrMagnitude": 395993.156
+      }
+    },
+    "InteractiveItem_09d8b23aba88480fa9f995c0365c03ef": {
+      "position": {
+        "x": 553.263,
+        "y": 19.9174423,
+        "z": 180.026,
+        "normalized": {
+          "x": 0.950368345,
+          "y": 0.03421322,
+          "z": 0.309239954,
+          "normalized": {
+            "x": 0.9503684,
+            "y": 0.0342132226,
+            "z": 0.309239984,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 582.1564,
+        "sqrMagnitude": 338906.0
+      },
+      "rotation": {
+        "x": 270.0,
+        "y": 89.9997253,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.9486836,
+          "y": 0.3162269,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 284.6049,
+        "sqrMagnitude": 80999.95
+      },
+      "inv_id": 25,
+      "inv_amount": 50,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "object_path": "FirstHouseProps/IR_9mm_Ammo (2)_2",
+          "object_scene": "Horror map",
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "InteractiveItem_66a1fb75ed604f5aaa22a55b0d7495bb": {
+      "position": {
+        "x": 562.7725,
+        "y": 19.9455662,
+        "z": 187.066467,
+        "normalized": {
+          "x": 0.948412,
+          "y": 0.03361325,
+          "z": 0.315253615,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 593.384033,
+        "sqrMagnitude": 352104.6
+      },
+      "rotation": {
+        "x": 359.219269,
+        "y": 89.9981842,
+        "z": 359.893555,
+        "normalized": {
+          "x": 0.6956318,
+          "y": 0.1742824,
+          "z": 0.696937561,
+          "normalized": {
+            "x": 0.695631862,
+            "y": 0.174282417,
+            "z": 0.6969376,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 516.3928,
+        "sqrMagnitude": 266661.531
+      },
+      "inv_id": 30,
+      "inv_amount": 1,
+      "weapon_id": 4,
+      "examined": false,
+      "customData": {
+        "data": {
+          "object_path": "FirstHouseProps/IA_Axe",
+          "object_scene": "Horror map",
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "SaveObject_16006c8350cf4931880e4033f61a59c1": {
+      "position": {
+        "x": 613.55,
+        "y": 16.95,
+        "z": 399.03,
+        "normalized": {
+          "x": 0.83808,
+          "y": 0.0231528915,
+          "z": 0.5450559,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 732.09,
+        "sqrMagnitude": 535955.8
+      }
+    },
+    "DraggableObject_d64e0a5eda024ba0b1f462ce7f135a1e": {
+      "position": {
+        "x": 557.270264,
+        "y": 18.161335,
+        "z": 276.9806,
+        "normalized": {
+          "x": 0.8951071,
+          "y": 0.0291713737,
+          "z": 0.444895953,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 622.573853,
+        "sqrMagnitude": 387598.219
+      },
+      "rotation": {
+        "x": 0.000137303359,
+        "y": -1.48150818E-07,
+        "z": 0.000227793833,
+        "normalized": {
+          "x": 0.516228139,
+          "y": -0.000557012041,
+          "z": 0.856451,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.000265974173,
+        "sqrMagnitude": 7.074227E-08
+      },
+      "isPlayed": false,
+      "rigidbody_kinematic": false,
+      "rigidbody_gravity": true,
+      "rigidbody_freeze": false
+    },
+    "BreakableObject_f03c782be5e1405b83397b2da5ca7d03": {
+      "breakable_health": 5.0,
+      "is_broken": false
+    },
+    "TriggerHint_40705f47b6d148958b86ad6aa6290b11": {
+      "enabled": true,
+      "isShown": false
+    },
+    "ZombieBehaviourAI_e74bbd08b35745459ebd1db895ff887f": {
+      "position": {
+        "x": 465.347382,
+        "y": 16.5702171,
+        "z": 415.008,
+        "normalized": {
+          "x": 0.746057153,
+          "y": 0.0265658088,
+          "z": 0.665351748,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 623.742249,
+        "sqrMagnitude": 389054.4
+      },
+      "rotation_y": 85.78624,
+      "sleep_behaviour": 3,
+      "agony_set": false,
+      "hunger_set": false,
+      "scream": true,
+      "awake": true,
+      "idle": false,
+      "npc_dead": false,
+      "scream_time": 0.0,
+      "agony_time": 42.9350433,
+      "hunger_time": 77.77015,
+      "last_waypoint": {
+        "x": 485.46,
+        "y": 16.54,
+        "z": 416.49,
+        "normalized": {
+          "x": 0.7587083,
+          "y": 0.0258497838,
+          "z": 0.65091753,
+          "normalized": {
+            "x": 0.7587082,
+            "y": 0.02584978,
+            "z": 0.6509175,
+            "normalized": {
+              "x": 0.758708239,
+              "y": 0.0258497819,
+              "z": 0.65091753,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 0.99999994,
+            "sqrMagnitude": 0.9999999
+          },
+          "magnitude": 1.00000012,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 639.850647,
+        "sqrMagnitude": 409408.875
+      }
+    },
+    "ZombieBehaviourAI_0f751af0c3ce4d5cba8ee20bedcf25dc": {
+      "position": {
+        "x": 477.101929,
+        "y": 16.7162418,
+        "z": 405.028229,
+        "normalized": {
+          "x": 0.7620682,
+          "y": 0.02670062,
+          "z": 0.646945953,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 626.061951,
+        "sqrMagnitude": 391953.563
+      },
+      "rotation_y": 91.7795639,
+      "sleep_behaviour": 3,
+      "agony_set": false,
+      "hunger_set": false,
+      "scream": true,
+      "awake": true,
+      "idle": false,
+      "npc_dead": false,
+      "scream_time": 0.0,
+      "agony_time": 45.8011742,
+      "hunger_time": 77.77015,
+      "last_waypoint": {
+        "x": 501.19,
+        "y": 16.54,
+        "z": 404.28,
+        "normalized": {
+          "x": 0.778084636,
+          "y": 0.0256779287,
+          "z": 0.627634346,
+          "normalized": {
+            "x": 0.7780847,
+            "y": 0.02567793,
+            "z": 0.6276344,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 644.133,
+        "sqrMagnitude": 414907.3
+      }
+    },
+    "InteractiveLight_037546b2f49a494190440d7b8e88b432": {
+      "isPoweredOn": true,
+      "defaultPower": true,
+      "lightType": 0
+    },
+    "DynamicObject_515534a110314e1a89d913cc82abf313": {
+      "use_type": 0,
+      "door_angle": -1.44890191E-05,
+      "is_opened": false,
+      "is_locked": false
+    },
+    "SaveObject_2fc5c5ca51e347cc9302ad63c6e4f3d6": {
+      "active_state": {
+        "activeSelf": true
+      }
+    },
+    "InteractiveItem_9bed226aaa9c47e2a43168e6203192ca": {
+      "position": {
+        "x": 556.5136,
+        "y": 18.518,
+        "z": 180.006958,
+        "normalized": {
+          "x": 0.9509888,
+          "y": 0.03164417,
+          "z": 0.3076018,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 585.1947,
+        "sqrMagnitude": 342452.8
+      },
+      "rotation": {
+        "x": 270.0,
+        "y": 320.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.644870937,
+          "y": 0.7642915,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 418.688416,
+        "sqrMagnitude": 175300.0
+      },
+      "inv_id": 0,
+      "inv_amount": 1,
+      "weapon_id": 0,
+      "examined": false,
+      "customData": {
+        "data": {
+          "CanUse": true,
+          "CanCombine": true
+        }
+      },
+      "stateDisable": true,
+      "floatingIcon": true
+    },
+    "ZombieBehaviourAI_37615ea7d06e4d35bf5c44a26852dc41": {
+      "position": {
+        "x": 613.343445,
+        "y": 16.8237877,
+        "z": 387.727417,
+        "normalized": {
+          "x": 0.845042348,
+          "y": 0.0231792051,
+          "z": 0.5341968,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 725.813843,
+        "sqrMagnitude": 526805.75
+      },
+      "rotation_y": 198.404022,
+      "sleep_behaviour": 3,
+      "agony_set": false,
+      "hunger_set": false,
+      "scream": true,
+      "awake": true,
+      "idle": false,
+      "npc_dead": false,
+      "scream_time": 0.0,
+      "agony_time": 47.6239738,
+      "hunger_time": 77.77015,
+      "last_waypoint": {
+        "x": 603.09,
+        "y": 16.54,
+        "z": 363.77,
+        "normalized": {
+          "x": 0.8560544,
+          "y": 0.0234776568,
+          "z": 0.5163523,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 704.499634,
+        "sqrMagnitude": 496319.75
+      }
+    },
+    "DynamicObject_48aa1024009b4cc5bfc442679286cdfd": {
+      "use_type": 0,
+      "door_angle": 0.0,
+      "is_opened": false,
+      "is_locked": false
+    },
+    "HFPS_Destroyable_857ba72398db478d8e4699a0e249c6ee": {
+      "locked": false
+    },
+    "DraggableObject_50e796b26339485fb351c2fd172fd67d": {
+      "position": {
+        "x": 453.877472,
+        "y": 18.4791431,
+        "z": 373.2034,
+        "normalized": {
+          "x": 0.772031069,
+          "y": 0.03143243,
+          "z": 0.63480705,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 587.9005,
+        "sqrMagnitude": 345627.031
+      },
+      "rotation": {
+        "x": 354.594025,
+        "y": 29.0103645,
+        "z": 9.583906,
+        "normalized": {
+          "x": 0.9963086,
+          "y": 0.081510894,
+          "z": 0.0269280579,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 355.9078,
+        "sqrMagnitude": 126670.375
+      },
+      "isPlayed": false,
+      "rigidbody_kinematic": false,
+      "rigidbody_gravity": true,
+      "rigidbody_freeze": false
+    },
+    "BreakableObject_29ed0216a8ef4419801213c87858bb99": {
+      "breakable_health": 5.0,
+      "is_broken": false
+    },
+    "JumpscareTrigger_e09750201e804f70809035350fa9f940": {
+      "isPlayed": false
+    },
+    "TriggerObjective_cf6d74104c80473c8be7b938fd9c5d65": {
+      "isTriggered": false
+    },
+    "TriggerObjective_b079877d7acb4d8b8cff5852dc696d65": {
+      "isTriggered": false
+    },
+    "JumpscareTrigger_edf9d17de8e14880b077ca2c78855af5": {
+      "isPlayed": false
+    },
+    "TriggerObjective_92b37433b703494b9c72516920091869": {
+      "isTriggered": false
+    },
+    "TriggerObjective_e50858e5b7974f47b7b0fe83dcb0ec6f": {
+      "isTriggered": false
+    },
+    "TriggerObjective_e1d8c205060044dc88cc39d4b28e3b10": {
+      "isTriggered": false
+    },
+    "TriggerObjective_e3a6e9c63e4845c68665d3ad2d64bc38": {
+      "isTriggered": false
+    },
+    "TriggerObjective_95c28809646f42c585eaa8ba9cae35bc": {
+      "isTriggered": false
+    },
+    "AnimationPlayEvent_c6af4cc8d27d42e5a9fa237b691ba78c": {
+      "isPlayed": false
+    },
+    "TriggerObjective_59bae69936f44fceb194db8399271b05": {
+      "isTriggered": false
+    },
+    "TriggerObjective_9cc37acf29ac450ebffdbfa21b6810b2": {
+      "isTriggered": false
+    },
+    "AnimationPlayEvent_675bb56ed9134886ac18b7d9e1e42346": {
+      "isPlayed": false
+    },
+    "TriggerObjective_dae16f0237f04062871c6b65cd21dbf9": {
+      "isTriggered": false
+    },
+    "TriggerObjective_ef1f6dd9fa11472994ebec45ada8a8bb": {
+      "isTriggered": false
+    },
+    "TriggerObjective_f5512f8ca6d543e1b74c26e858f0d677": {
+      "isTriggered": false
+    },
+    "TriggerObjective_31ab80bda5d1467d80649de1c9e00179": {
+      "isTriggered": false
+    }
+  }
+}
